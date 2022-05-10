@@ -1,22 +1,8 @@
 # Hi👋, I'm Peter Atef
-An aspiring developer with a wide range of intresets and strong passion for building stuff
+An aspiring developer with a wide range of intresets and strong passion for building things.
 
-<!--
-**VcelistMC/VcelistMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcelistmc&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vcelistmc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=vcelistmc&include_all_commits=true" width="47%" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcelistmc&layout=compact" width="47%" align="left"/>
 
 ## 🔭 I’m currently working on
 - [Pathfinding Visualizer](https://github.com/VcelistMC/Pathfinding-Visualizer) HTML, CSS, JS
@@ -26,3 +12,22 @@ Here are some ideas to get you started:
 - Backend Development with ASP.NET
 
 ## 🖥️ My Projects
+### Freelance Projects
+- [Car Workshop Application](https://github.com/VcelistMC/CarWorkshop) Java, JavaFX, SQLite
+- [Visitor Data Entry Application](https://github.com/VcelistMC/caring-home) Java, JavaFX, SQLite
+### Personal Projects
+- [Bookr App](https://github.com/VcelistMC/BookrApp) Android Java
+- [Soundboard App](https://github.com/VcelistMC/SoundBoardApp) C#, WPF
+- [Miwok App](https://github.com/VcelistMC/ud839_Miwok) Android Java
+- [Recipe Application](https://github.com/VcelistMC/Restraunt) Flutter
+- [Text Steganography App](https://github.com/VcelistMC/inText-it) Python, PyQT
+- [Suduko Solver](https://github.com/VcelistMC/SodokuSolver) Java, Swing
+- [AI Tic-Tac-Toe](https://github.com/VcelistMC/Tic-Tac-Toe) Godot Game Engine
+- [To Do List API](https://github.com/VcelistMC/QwestAPI) C#, ASP.NET, Entity Framework
+### College Projects
+- [CLI Ride Sharing Application](https://github.com/VcelistMC/OnDriverSystem_CS_Project) Java, SQLite, Springboot
+- [Vector Quantization Image Compression](https://github.com/VcelistMC/VectorQuantizer) Java
+- [JS Calculator](https://github.com/VcelistMC/JS-Calculator) HTML, JS, CSS
+- [Standard Huffman Text Compression](https://github.com/VcelistMC/Standard-Hoffmann-Compression) Java
+- [LZ Text Compression](https://github.com/VcelistMC/LZ77-LZ78-LZW-Text-Compression) Java
+- [Java Linux Terminal](https://github.com/VcelistMC/Java-Linux-Terminal) Java
