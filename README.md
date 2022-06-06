@@ -1,4 +1,4 @@
-# Hi👋, I'm Peter Atef
+# Hi👋, I'm Peter Atef ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=VcelistMC)
 An aspiring developer with a wide range of intresets and strong passion for building things.
 
 <img src="https://github-readme-stats.vercel.app/api?username=vcelistmc&include_all_commits=true" width="47%" align="left"/>
@@ -25,6 +25,7 @@ An aspiring developer with a wide range of intresets and strong passion for buil
 - [AI Tic-Tac-Toe](https://github.com/VcelistMC/Tic-Tac-Toe) Godot Game Engine
 - [To Do List API](https://github.com/VcelistMC/QwestAPI) C#, ASP.NET, Entity Framework
 ### College Projects
+- [Chinese Checkers AI](https://github.com/VcelistMC/Chinese-Checker-AI) Python, PyQt5
 - [CLI Ride Sharing Application](https://github.com/VcelistMC/OnDriverSystem_CS_Project) Java, SQLite, Springboot
 - [Vector Quantization Image Compression](https://github.com/VcelistMC/VectorQuantizer) Java
 - [JS Calculator](https://github.com/VcelistMC/JS-Calculator) HTML, JS, CSS
