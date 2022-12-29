@@ -4,12 +4,10 @@ An aspiring developer with a wide range of intresets and strong passion for buil
 <img src="https://github-readme-stats.vercel.app/api?username=vcelistmc&include_all_commits=true" width="47%" align="left"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcelistmc&layout=compact" width="47%" align="left"/>
 
-## 🔭 I’m currently working on
-- [Pathfinding Visualizer](https://github.com/VcelistMC/Pathfinding-Visualizer) HTML, CSS, JS
 
 ## 🌱 I’m currently learning
 - Android Development with Kotlin and Java
-- Backend Development with ASP.NET
+- Backend Development with Python Django
 
 ## 🖥️ My Projects
 ### Freelance Projects
