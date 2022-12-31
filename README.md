@@ -14,6 +14,7 @@ An aspiring developer with a wide range of intresets and strong passion for buil
 - [Car Workshop Application](https://github.com/VcelistMC/CarWorkshop) Java, JavaFX, SQLite
 - [Visitor Data Entry Application](https://github.com/VcelistMC/caring-home) Java, JavaFX, SQLite
 ### Personal Projects
+- [LittleLemon REST API](https://github.com/VcelistMC/LittleLemonAPI) Python, Django Rest Framework, Postman, Swagger
 - [Bookr App](https://github.com/VcelistMC/BookrApp) Android Java
 - [Soundboard App](https://github.com/VcelistMC/SoundBoardApp) C#, WPF
 - [Miwok App](https://github.com/VcelistMC/ud839_Miwok) Android Java
