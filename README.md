@@ -7,7 +7,7 @@ An aspiring developer with a wide range of intresets and strong passion for buil
 
 ## 🌱 I’m currently learning
 - Android Development with Kotlin and Java
-- Backend Development with Python Django
+- Backend Development Springboot, and NodeJS
 
 ## 🖥️ My Projects
 ### Freelance Projects
